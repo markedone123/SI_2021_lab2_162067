@@ -5,8 +5,12 @@
 
 ####  Барање 2: Control Flow Graph
 
+Сликата за CFG може да ја видите [тука](https://raw.githubusercontent.com/markedone123/SI_2021_lab2_162067/master/lab2_CFG.png). 
+
+Цртана е со помош на [draw.io](https://app.diagrams.net/), и фајлот од програмата се наоѓа [тука](). 
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/markedone123/SI_2021_lab2_162067/master/lab2_CFG.png" width=45%;></img>
+<img src="https://raw.githubusercontent.com/markedone123/SI_2021_lab2_162067/master/lab2_CFG.png" width=75%;></img>
 </p>
 
 #### Барање 3: Цикломатска комплексност
